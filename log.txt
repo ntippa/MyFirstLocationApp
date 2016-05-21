@@ -1,0 +1,119 @@
+05-2014:52:50.971:D/MapsActivity(7271):JSON::{  
+   "geocoded_waypoints":[  
+      {  
+         "geocoder_status":"OK",
+         "place_id":"ChIJGzE9DS1l44kRoOhiASS_fHg",
+         "types":[  
+            "locality",
+            "political"
+         ]
+      },
+      {  
+         "geocoder_status":"OK",
+         "place_id":"ChIJmaG-aH_Tw4kR6tSDb6bFK_I",
+         "types":[  
+            "locality",
+            "political"
+         ]
+      }
+   ],
+   "routes":[  
+      {  
+         "bounds":{  
+            "northeast":{  
+               "lat":42.3626728,
+               "lng":-71.05199019999999
+            },
+            "southwest":{  
+               "lat":40.5176521,
+               "lng":-74.4118627
+            }
+         },
+         "copyrights":"Map data ©2016 Google",
+         "legs":[  
+            {  
+               "distance":{  
+                  "text":"248 mi",
+                  "value":398502
+               },
+               "duration":{  
+                  "text":"4 hours 10 mins",
+                  "value":14986
+               },
+               "end_address":"Edison, NJ, USA",
+               "end_location":{  
+                  "lat":40.5184803,
+                  "lng":-74.4118627
+               },
+               "start_address":"Boston, MA, USA",
+               "start_location":{  
+                  "lat":42.359824,
+                  "lng":-71.05981249999999
+               },
+               "steps":[  
+                  {  
+                     "distance":{  
+                        "text":"0.1 mi",
+                        "value":181
+                     },
+                     "duration":{  
+                        "text":"1 min",
+                        "value":42
+                     },
+                     "end_location":{  
+                        "lat":42.3610018,
+                        "lng":-71.0612371
+                     },
+                     "html_instructions":"Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eCambridge St\u003c/b\u003e toward \u003cb\u003eSudbury St\u003c/b\u003e",
+                     "polyline":{  
+                        "points":"{kpaGxzupLSHSJOHOHOL_@\\KLEDEFMPU`@Q^Qf@Sn@"
+                     },
+                     "start_location":{  
+                        "lat":42.359824,
+                        "lng":-71.05981249999999
+                     },
+                     "travel_mode":"DRIVING"
+                  },
+                  {  
+                     "distance":{  
+                        "text":"0.2 mi",
+                        "value":274
+                     },
+                     "duration":{  
+                        "text":"1 min",
+                        "value":73
+                     },
+                     "end_location":{  
+                        "lat":42.3624195,
+                        "lng":-71.0585323
+                     },
+                     "html_instructions":"Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eSudbury St\u003c/b\u003e",
+                     "maneuver":"turn-right",
+                     "polyline":{  
+                        "points":"gspaGvcvpLq@}@Q]GOISO_@CKQe@KW]aAc@kAk@uAACc@kA"
+                     },
+                     "start_location":{  
+                        "lat":42.3610018,
+                        "lng":-71.0612371
+                     },
+                     "travel_mode":"DRIVING"
+                  },
+                  {  
+                     "distance":{  
+                        "text":"325 ft",
+                        "value":99
+                     },
+                     "duration":{  
+                        "text":"1 min",
+                        "value":33
+                     },
+                     "end_location":{  
+                        "lat":42.3629233,
+                        "lng":-71.0591692
+                     },
+                     "html_instructions":"Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eCongress St\u003c/b\u003e",
+                     "maneuver":"turn-left",
+                     "polyline":{  
+                        "points":"c|paGxrupLI_@QRGHIJCFEFEJEHEHABCFELCHCJET"
+                     },
+                     "start_location":{  
